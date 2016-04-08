@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionumla00henzgoog/inscriptionumla00henzgoog_0005.png"; bbox 0 0 4059 5917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 705 2052 1330 2149">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 705 2052 1330 2149">
+     <span class='ocr_line' id='line_1_1' title="bbox 705 2052 1330 2149; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 705 2052 1330 2149; x_wconf 77' lang='lat' dir='ltr'>lecfflP&#39;moNvM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 549 2400 1491 2480">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 549 2400 1491 2480">
+     <span class='ocr_line' id='line_1_2' title="bbox 549 2400 1491 2480; baseline 0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 549 2402 971 2479; x_wconf 80' lang='lat' dir='ltr'>LATINARVM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1025 2400 1491 2480; x_wconf 68' lang='lat' dir='ltr'>SELECTARVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 777 2726 1260 2791">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 777 2726 1260 2791">
+     <span class='ocr_line' id='line_1_3' title="bbox 777 2726 1260 2791; baseline -0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 777 2727 1002 2789; x_wconf 79' lang='lat' dir='ltr'>AMPLISSIMA</span> <span class='ocrx_word' id='word_1_5' title='bbox 1035 2726 1260 2791; x_wconf 87' lang='lat' dir='ltr'>COLLECTIO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 933 3256 1107 3323">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 933 3256 1107 3323">
+     <span class='ocr_line' id='line_1_4' title="bbox 933 3256 1107 3323; baseline 0.006 -4"><span class='ocrx_word' id='word_1_6' title='bbox 933 3256 1023 3323; x_wconf 84' lang='lat' dir='ltr'>VOL.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1054 3258 1107 3320; x_wconf 88' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2034 5917">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2034 5917">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2034 5917; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2034 5917; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
